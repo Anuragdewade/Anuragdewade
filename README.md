@@ -111,9 +111,9 @@ Jupyter Notebook • Google Colab • Docker
 
 ## 📜 Certifications
 
-- Generative AI: Tools, Techniques & Applications  
-- Data Analytics & Visualization  
-- Python for Data Science  
+- OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers 
+  
+  
 
 ---
 
