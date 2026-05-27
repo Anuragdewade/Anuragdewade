@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Dewade</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;ECE+Student;&center=true&width=500&height=45">
-</p>
+
 
 <p align="center">
 🎓 B.Tech ECE @ RCOEM | 📍 Nagpur, India  
