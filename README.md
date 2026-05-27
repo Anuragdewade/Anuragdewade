@@ -85,13 +85,6 @@ Jupyter Notebook • Google Colab • Docker
 
 ---
 
-### 🦯 Smart Walking Stick (IoT)
-
-- Arduino-based assistive system  
-- Sensors: Ultrasonic, IR, Water  
-- Real-time obstacle detection + audio alerts
-  
-
 ---
 ### 🦯 Smart Temperature Monitoring  using Kafka and Docker 
 
@@ -105,7 +98,7 @@ Jupyter Notebook • Google Colab • Docker
 ## 🏆 Achievements
 
 🥇 Vishleshan Case Study Competition  
-→ Top 40 out of 350 teams  
+→ Top 10 out of 350 teams  
 
 ---
 
