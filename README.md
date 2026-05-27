@@ -35,7 +35,7 @@
 
 ---
 
-### 🤖 Data Science & Machine Learning
+### 🤖  Machine Learning
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -49,14 +49,15 @@ Pandas • NumPy • Matplotlib • Scikit-learn
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
-Jupyter Notebook • Google Colab  
+Jupyter Notebook • Google Colab • Docker 
+  
 
 ---
 
 ## 🚀 Experience
 
 ### 💼 Full Stack Developer (Remote)  
-📅 Oct 2025 – Present  
+📅 Oct 2025 – March 2026  
 
 *CLASSYSHOP Ecommerce Website*
 
@@ -90,7 +91,16 @@ Jupyter Notebook • Google Colab
 
 - Arduino-based assistive system  
 - Sensors: Ultrasonic, IR, Water  
-- Real-time obstacle detection + audio alerts  
+- Real-time obstacle detection + audio alerts
+  
+
+---
+### 🦯 Smart Temperature Monitoring  using Kafka and Docker 
+
+- Built a real-time AI-powered smart monitoring system using Apache Kafka, FastAPI, and Docker for distributed event-driven communication.
+- Implemented Kafka Producer-Consumer architecture to stream live sensor data, process events asynchronously, and generate AI-based overheating alerts in real time.
+- Developed a live monitoring dashboard with Dockerized deployment, scalable backend services, and real-time alert visualization for industrial/IoT monitoring use cases.
+  
 
 ---
 
