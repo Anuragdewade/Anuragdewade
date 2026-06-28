@@ -12,7 +12,7 @@
 
 ### 🚀 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,sql" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-✔ REST APIs • JWT Authentication • CRUD Operations  
+✔ REST APIs • JWT Authentication 
 
 ---
 
@@ -33,12 +33,7 @@
 
 ---
 
-### 🤖  Machine Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-Pandas • NumPy • Matplotlib • Scikit-learn  
 
 ---
 
@@ -47,7 +42,7 @@ Pandas • NumPy • Matplotlib • Scikit-learn
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
-Jupyter Notebook • Google Colab • Docker 
+Vercel  • Render • Docker 
   
 
 ---
