@@ -12,7 +12,7 @@
 
 ### 🚀 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java, sql , react " />
+<img src="https://skillicons.dev/icons?i=java, sql  " />
 </p>
 
 ---
